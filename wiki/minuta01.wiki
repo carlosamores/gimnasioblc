@@ -14,10 +14,8 @@ Claudia Marcela Ramírez <br />
 =Duración=
 2 horas
 
-=Resumen del seguimiento de las actividades=
-
-- Planeación desarrollo de actividades modulo I  
-<br /> 
+=Resumen del seguimiento de las activPlaneación desarrollo de actividades modulo I Maestría <br />
+- <br /> 
 - Cronograma de actividades proyecto Gimnasio BLC <br />
 - Lectura y socializacion de requerimientos <br />
 - Creación del grupo en code.google.com <br />
