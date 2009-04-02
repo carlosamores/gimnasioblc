@@ -21,8 +21,8 @@ Claudia Marcela Ramírezrez <br />
 =Duración=
 2 horas
 
-=Resumen del seguimiento de las acti* [ArticlesXSS Planeación desarrollo de actividades modulo I Maestría]  
-* [ArticlesXSS Cronograma de actividades proyecto Gimnasio BLC]
+=Resumen del seguimiento de las acti * [ArticlesXSS Planeación desarrollo de actividades modulo I Maestría]  
+ * [ArticlesXSS Cronograma de actividades proyecto Gimnasio BLC]
 
 BLC <br />
 - Lectura y socializacion de requerimientos <br />
