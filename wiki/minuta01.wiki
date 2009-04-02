@@ -1,2 +1,29 @@
 #labels Featured,Phase-Requirements
-import static org.hamcrest.MatcherAssert.assertThat;import static org.hamcrest.Matchers.*;import junit.framework.TestCase;public class BiscuitTest extends TestCase {  public void testEquals() {    Biscuit theBiscuit = new Biscuit("Ginger");    Biscuit myBiscuit = new Biscuit("Ginger");    assertThat(theBiscuit, equalTo(myBiscuit));  }}
+GIMNASIO BLC 001
+
+=Fecha=
+Abril 1 de 2009
+
+=PARTICIPANTES=
+Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
+
+Duración: 2 horas
+
+=Resumen del seguimiento de las actividades=
+
+- Planeación desarrollo de actividades modulo I Maestría <br/ > 
+- Cronograma de actividades proyecto Gimnasio BLC <br/ >
+- Lectura y socializacion de requerimientos <br/ >
+- Creación del grupo en code.google.com <br/ >
+- Asignación de tareas proximo encuentro <br/ >
+
+=Logros  a la fecha=
+- Socializacion de lectura
+- Planeación inicial proyecto Gimnasio BLC
+- Creacion del grupo 
+
+=Objetivos para la próxima reunión=
+- Borrador diagrama de actividades
+- Identificar actores del sistema
+- Borrador casos de uso
+- Identificacion de clases, metodos y objetos
