@@ -1,18 +1,18 @@
 #labels Featured,Phase-Requirements
 GIMNASIO BLC 001
 
-=||Fecha||=
+=Fecha=
 Abril 1 de 2009
 
-=||PARTICIPANTES||=
+=Participantes=
 Beatriz Ayala <br />
 Lina MariaOcampo <br /> 
 Claudia Marcela Ramírez <br />
 
-=||DURACIÓN||=
+=Duración=
 2 horas
 
-=||Resumen del seguimiento de las actividades=||
+=Resumen del seguimiento de las actividades=
 
 - Planeación desarrollo de actividades modulo I Maestría <br /> 
 - Cronograma de actividades proyecto Gimnasio BLC <br />
