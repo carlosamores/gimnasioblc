@@ -1,23 +1,19 @@
 #labels Featured,Phase-Requirements
-{| class="wikitable" align=right
-!Encabezado 1!!Encabezado 2!!Encabezado 3
-|-
-|celda 1||celda 2||celda 3
-|-
-|celda 1||celda2||celda 3
-|}
-
-''hola''
-
 =Fecha=
 {{{
-*Abril 1 de 2009*
+Abril 1 de 2009
 }}}
 
 =Participantes=
+{{{
 Beatriz Ayala <br />
+}}}
+{{{
 Lina Maria Ocampo <br /> 
+}}}
+{{{
 Claudia Marcela Ramírez <br />
+}}}rez <br />
 
 =Duración=
 2 horas
