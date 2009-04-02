@@ -1,17 +1,6 @@
 #labels Featured,Phase-Requirements
-* [Articles HOWTO articles]    
-  * [ArticlesXSS Web security]    
-  * [ArticlesDom DOM manipulation]    
-  * [ArticlesStyle CSS and style]    
-* [ArticlesTips Tips and tricks]  
-* [DOMReference DOM reference]  
-* [HTMLElements HTML reference]  
-* [CSSReference CSS reference]
-
 =Fecha=
-{{{
 Abril 1 de 2009
-}}}
 
 =Participantes=
 Beatriz Ayala
@@ -21,11 +10,11 @@ Claudia Marcela Ramírezrez <br />
 =Duración=
 2 horas
 
-=Resumen del seguimiento de las act * [ArticlesXSS Planeación desarrollo de actividades modulo I Maestría]  
- * [ArticlesXSS Cronograma de actividades proyecto Gimnasio BLC]
- * [ArticlesXSS Lectura y socializacion de requerimientos]
- * [ArticlesXSS Creación del grupo en code.google.com]
- * [ArticlesXSS Asignación de tareas proximo encuentro]tro <br />
+=Resumen del seguimiento de las act- Planeación desarrollo de actividades modulo I Maestría <br />  
+- Cronograma de actividades proyecto Gimnasio BLC <br />
+- Lectura y socializacion de requerimientos <br />
+- Creación del grupo en code.google.com <br />
+- Asignación de tareas proximo encuentro <br />tro <br />
 
 =Logros  a la fecha=
 - Socializacion de lectura <br />
