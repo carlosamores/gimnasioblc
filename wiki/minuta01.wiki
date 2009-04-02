@@ -21,7 +21,7 @@ Claudia Marcela Ramírez <br />rez <br />
 - Planeación inicial proyecto Gimnasio BLC <br />
 - Creacion del grupo <br />
 
-=Objetivos para la próxima reunión=
+=Objetivos para la próxima reCada uno de los integrantes del grupo esta encargado de realizar un nión=
 - Borrador diagrama de actividades <br />
 - Identificar actores del sistema <br />
 - Borrador casos de uso <br />
