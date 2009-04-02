@@ -1,4 +1,5 @@
 #labels Featured,Phase-Requirements
+A picture: 
 [[Image:wiki.png]]
 
 =Fecha=
