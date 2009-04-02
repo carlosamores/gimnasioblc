@@ -1,4 +1,6 @@
 #labels Featured,Phase-Requirements
+[[Image:wiki.png]]
+
 =Fecha=
 {{{
 *Abril 1 de 2009*
