@@ -1,13 +1,11 @@
 #labels Featured,Phase-Requirements
-{| border=1 style="float:right; margin:0 0 1em 1em"
-|+Leyenda
+{| class="wikitable" align=right
 !Encabezado 1!!Encabezado 2!!Encabezado 3
-|-----------------
+|-
 |celda 1||celda 2||celda 3
-|-----------------
+|-
 |celda 1||celda2||celda 3
 |}
-
 
 ''hola''
 
