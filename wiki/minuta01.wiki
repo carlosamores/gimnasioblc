@@ -1,9 +1,5 @@
 #labels Featured,Phase-Requirements
-Example: {| align=right
-|-
-| 
-Place images here
-|}
+''hola''
 
 =Fecha=
 {{{
