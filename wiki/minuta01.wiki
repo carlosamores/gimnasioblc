@@ -1,7 +1,8 @@
 #labels Featured,Phase-Requirements
 Fecha: Abril 1 de 2009
 
-Participantes:  Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
+*Participantes:*  
+Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
 
 Duración: 2 horas
 
