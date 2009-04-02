@@ -5,7 +5,8 @@ Participantes:  Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
 
 Duración: 2 horas
 
-Resumen del seguimiento de las actividades:
+
+Resumen del seguimiento de las actividades:<br />
 * Planeación desarrollo de actividades modulo I Maestría 
 * Cronograma de actividades proyecto Gimnasio BLC
 * Lectura y socializacion de requerimientos
