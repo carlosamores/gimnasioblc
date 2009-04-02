@@ -1,11 +1,13 @@
 #labels Featured,Phase-Requirements
 GIMNASIO BLC 001
 
-=Fecha=
+||=Fecha=||
 Abril 1 de 2009
 
-=PARTICIPANTES=
-Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
+||=PARTICIPANTES=||
+Beatriz Ayala <br />
+Lina MariaOcampo <br /> 
+Claudia Marcela Ramírez <br />
 
 Duración: 2 horas
 
@@ -18,12 +20,12 @@ Duración: 2 horas
 - Asignación de tareas proximo encuentro <br />
 
 =Logros  a la fecha=
-- Socializacion de lectura
-- Planeación inicial proyecto Gimnasio BLC
-- Creacion del grupo 
+- Socializacion de lectura <br />
+- Planeación inicial proyecto Gimnasio BLC <br />
+- Creacion del grupo <br />
 
 =Objetivos para la próxima reunión=
-- Borrador diagrama de actividades
-- Identificar actores del sistema
-- Borrador casos de uso
-- Identificacion de clases, metodos y objetos
+- Borrador diagrama de actividades <br />
+- Identificar actores del sistema <br />
+- Borrador casos de uso <br />
+- Identificacion de clases, metodos y objetos <br />
