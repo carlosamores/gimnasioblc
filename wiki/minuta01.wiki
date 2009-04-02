@@ -1,6 +1,8 @@
 #labels Featured,Phase-Requirements
-=FECHA=
-Abril 1 de 2009
+GIMNASIO BLC 001
+
+=Fecha=
+==Abril 1 de 2009==
 
 =PARTICIPANTES=
 Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
