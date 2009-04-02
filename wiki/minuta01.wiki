@@ -23,11 +23,9 @@ Claudia Marcela Ramírezrez <br />
 
 =Resumen del seguimiento de las acti * [ArticlesXSS Planeación desarrollo de actividades modulo I Maestría]  
  * [ArticlesXSS Cronograma de actividades proyecto Gimnasio BLC]
-
-BLC <br />
-- Lectura y socializacion de requerimientos <br />
-- Creación del grupo en code.google.com <br />
-- Asignación de tareas proximo encuentro <br />
+ * [ArticlesXSS Lectura y socializacion de requerimientos]
+ * [ArticlesXSS Creación del grupo en code.google.com]
+ * [ArticlesXSS Asignación de tareas proximo encuentro]tro <br />
 
 =Logros  a la fecha=
 - Socializacion de lectura <br />
