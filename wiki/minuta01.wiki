@@ -11,11 +11,11 @@ Duración: 2 horas
 
 =Resumen del seguimiento de las actividades=
 
-- Planeación desarrollo de actividades modulo I Maestría <br/ > 
-- Cronograma de actividades proyecto Gimnasio BLC <br/ >
-- Lectura y socializacion de requerimientos <br/ >
-- Creación del grupo en code.google.com <br/ >
-- Asignación de tareas proximo encuentro <br/ >
+- Planeación desarrollo de actividades modulo I Maestría <br /> 
+- Cronograma de actividades proyecto Gimnasio BLC <br />
+- Lectura y socializacion de requerimientos <br />
+- Creación del grupo en code.google.com <br />
+- Asignación de tareas proximo encuentro <br />
 
 =Logros  a la fecha=
 - Socializacion de lectura
