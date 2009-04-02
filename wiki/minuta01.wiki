@@ -1,6 +1,9 @@
 #labels Featured,Phase-Requirements
-A picture: 
-[[Image:wiki.png]]
+Example: {| align=right
+|-
+| 
+Place images here
+|}
 
 =Fecha=
 {{{
