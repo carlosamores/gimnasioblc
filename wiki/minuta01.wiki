@@ -1,7 +1,7 @@
 #labels Featured,Phase-Requirements
 =Fecha=
 {{{
-Abril 1 de 2009
+*Abril 1 de 2009*
 }}}
 
 =Participantes=
