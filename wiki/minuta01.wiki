@@ -7,7 +7,7 @@ Beatriz Ayala, Lina M. Ocampo, Claudia M. Ramírez
 
 Duración: 2 horas
 
-Resumen del seguimiento de las actividades:
+=Resumen del seguimiento de las actividades=
 
 - Planeación desarrollo de actividades modulo I Maestría 
 - Cronograma de actividades proyecto Gimnasio BLC
@@ -15,12 +15,12 @@ Resumen del seguimiento de las actividades:
 - Creación del grupo en code.google.com
 - Asignación de tareas proximo encuentro
 
-Logros  a la fecha
+=Logros  a la fecha=
 - Socializacion de lectura
 - Planeación inicial proyecto Gimnasio BLC
 - Creacion del grupo 
 
-Objetivos para la próxima reunión
+=Objetivos para la próxima reunión=
 - Borrador diagrama de actividades
 - Identificar actores del sistema
 - Borrador casos de uso
