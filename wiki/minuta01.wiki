@@ -16,7 +16,8 @@ Claudia Marcela Ramírez <br />
 
 =Resumen del seguimiento de las actividades=
 
-- Planeación desarrollo de actividades modulo I Maestría <br /> 
+- Planeación desarrollo de actividades modulo I  
+<br /> 
 - Cronograma de actividades proyecto Gimnasio BLC <br />
 - Lectura y socializacion de requerimientos <br />
 - Creación del grupo en code.google.com <br />
@@ -31,4 +32,4 @@ Claudia Marcela Ramírez <br />
 - Borrador diagrama de actividades <br />
 - Identificar actores del sistema <br />
 - Borrador casos de uso <br />
-- Identificacion de clases, metodos y objetos <br />
+- Identificacion de clases, metodos y obje
