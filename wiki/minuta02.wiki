@@ -24,9 +24,8 @@ Claudia Marcela Ramírez <br />
 || Desarrollo de Diagrama de Actividades || Identificación de Participantes <br /> Identifiación del flujo de Actividades realizadas <br /> Uso de la herramienta StarUML para el modelado del diagrama <br /> Identificación de elementos para le modelado del diagrama de Actividades <br /> Modelo definitivo del Diagrama de Actividades ||
 || Asignación de tareas proximo encuentro || Borrador de casoss de uso por cada una de las integrantes del grupo de la Maestria ||
 
-
-
 =Objetivos para la próxima reunión=
-- Borrador casos de uso <br />
-- Identificacion de clases, métodos y objetos <br />
+- Identificar Actores
+- Idenfiticar Casos de Uso <br />
+- Identificar Núcleo del Negocio, CRUD, Reportes, Lista de Chequeo por cada caso de uso.
 - Encuentro Viernes 10 de Abril a las 8:00 am para continuar con el desarrollo del proyecto <br />
