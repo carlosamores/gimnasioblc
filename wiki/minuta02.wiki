@@ -20,7 +20,8 @@ Claudia Marcela Ramírez <br />
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
 || Lectura del proyecto del curso (Gimnasio)  || Ideas principales proyecto del curso ||
-|| Desarrollo Primera Entrega  || Nombre del Grupo de trabajo <br /> Nombre de la Aplicación ||
+|| Desarrollo Primera Entrega  || Nombre del Grupo de trabajo <br /> Nombre de la Aplicación <br /> Definición siglas y abreviaturas ||
+|| Desarrollo de Diagrama de Actividades || Identificación de Participantes <br /> Identifiación del flujo de Actividades realizadas <br /> Uso de la herramienta StarUML para la diagramación ||
 
 - Planeación desarrollo de actividades modulo I Maestría <br />  
 - Cronograma de actividades proyecto Gimnasio BLC <br />
