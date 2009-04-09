@@ -6,8 +6,12 @@ Beatriz Ayala <br />
 Lina Maria Ocampo <br />
 Claudia Marcela Ramírez <br />
 
+<br />
+
 =Duración=
 7 horas
+
+<br />
 
 =|| MAÑANA SÁBADO 9 a.m - 12 a.m ||=
 
@@ -23,6 +27,8 @@ Claudia Marcela Ramírez <br />
 || Inicio al desarrollo de la Primera Entrega  || Definición Nombre del Grupo de trabajo <br /> Definición Nombre de la Aplicación <br /> Definición siglas y abreviaturas <br /> Planeación para dar inicio al desarrollo del Diagrama de Actividades y Diagrama y especificación de Casos de Uso ||
 || Desarrollo de Diagrama de Actividades || Identificación de Participantes <br /> Identifiación del flujo de Actividades realizadas <br /> Uso de la herramienta StarUML para el modelado del diagrama <br /> Identificación de elementos para le modelado del diagrama de Actividades <br /> Modelo definitivo del Diagrama de Actividades ||
 || Asignación de tareas proximo encuentro || Borrador de casoss de uso por cada una de las integrantes del grupo de la Maestria ||
+
+<br />
 
 =Objetivos para la próxima reunión=
 - Identificar Actores
