@@ -6,17 +6,16 @@ Beatriz Ayala <br />
 Lina Maria Ocampo <br />
 Claudia Marcela Ramírez <br />
 
-=||Duración||=
-8 horas
+=Duración=
+7 horas
 
 =||||MAÑANA 9 a.m - 12 a.m||||TARDE 2 p.m - 6 p.m||=
 
-=||Resumen del seguimiento de las actividades||=
-- Planeación desarrollo de actividades modulo I Maestría <br />  
+||Resumen del seguimiento de las actividades||||- Planeación desarrollo de actividades modulo I Maestría <br />  
 - Cronograma de actividades proyecto Gimnasio BLC <br />
 - Lectura y socializacion de requerimientos <br />
 - Creación del grupo en code.google.com <br />
-- Asignación de tareas proximo encuentro <br />
+- Asignación de tareas proximo encuentro <br />||
 
 =Logros  a la fecha=
 - Socializacion de lectura <br />
