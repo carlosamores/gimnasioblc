@@ -14,15 +14,16 @@ Claudia Marcela Ramírez <br />rez <br />
 - Cronograma de actividades proyecto Gimnasio BLC <br />
 - Lectura y socializacion de requerimientos <br />
 - Creación del grupo en code.google.com <br />
-- Asignación de tareas proximo encuentro <br />tro <br />
+- Asignación de tareas próximo encuentro <br />
 
 =Logros  a la fecha=
-- Socializacion de lectura <br />
+- Socialización de lectura <br />
 - Planeación inicial proyecto Gimnasio BLC <br />
+- Creació
 - Creacion del grupo <br />
 
 =Objetivos para la próxima reBnión=
 - Borrador diagrama de actividades <br />
 - Identificar actores del sistema <br />
 - Borrador casos de uso <br />
-- Identificacion de clases, metodos y obje
+- Identificacion deéclases, metodos y obje
