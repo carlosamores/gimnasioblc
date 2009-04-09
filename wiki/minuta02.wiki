@@ -1,13 +1,28 @@
-#summary One-sentence summary of this page.
+=Fecha=
+Abril 4 de 2009
 
-= Introduction =
+=Participantes=
+Beatriz Ayala <br />
+Lina Maria Ocampo <br />
+Claudia Marcela Ramírez <br />
 
-Add your content here.
+||=Duración=||
+2 horas
 
+=Resumen del seguimiento de las actividades=
+- Planeación desarrollo de actividades modulo I Maestría <br />  
+- Cronograma de actividades proyecto Gimnasio BLC <br />
+- Lectura y socializacion de requerimientos <br />
+- Creación del grupo en code.google.com <br />
+- Asignación de tareas proximo encuentro <br />
 
-= Details =
+=Logros  a la fecha=
+- Socializacion de lectura <br />
+- Planeación inicial proyecto Gimnasio BLC <br />
+- Creacion del grupo <br />
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=Objetivos para la próxima reunión=
+- Borrador diagrama de actividades <br />
+- Identificar actores del sistema <br />
+- Borrador casos de uso <br />
+- Identificacion de clases, metodos y objetos <br />
