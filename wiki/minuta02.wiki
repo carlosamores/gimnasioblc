@@ -9,9 +9,9 @@ Claudia Marcela Ramírez <br />
 =||Duración||=
 8 horas
 
-=||MAÑANA 9 a.m - 12 a.m||||TARDE 2 p.m - 6 p.m||=
+||=||MAÑANA 9 a.m - 12 a.m||||TARDE 2 p.m - 6 p.m||=
 
-=Resumen del seguimiento de las actividades=
+=||Resumen del seguimiento de las actividades||=
 - Planeación desarrollo de actividades modulo I Maestría <br />  
 - Cronograma de actividades proyecto Gimnasio BLC <br />
 - Lectura y socializacion de requerimientos <br />
