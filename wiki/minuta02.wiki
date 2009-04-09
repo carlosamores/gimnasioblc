@@ -26,14 +26,7 @@ Claudia Marcela Ramírez <br />
 
 
 
-=Logros  a la fecha=
-- Socializacion de lectura <br />
-- Planeación inicial proyecto Gimnasio BLC <br />
-- Creacion del grupo <br />
-
-
 =Objetivos para la próxima reunión=
-- Borrador diagrama de actividades <br />
-- Identificar actores del sistema <br />
 - Borrador casos de uso <br />
-- Identificacion de clases, metodos y objetos <br />
+- Identificacion de clases, métodos y objetos <br />
+- Encuentro Viernes 10 de Abril a las 8:00 am para continuar con el desarrollo del proyecto <br />
