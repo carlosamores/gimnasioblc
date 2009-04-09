@@ -12,14 +12,12 @@ Claudia Marcela Ramírez <br />
 =||MAÑANA SÁBADO 9 a.m - 12 a.m||=
 
 =Resumen del seguimiento de las actividades=
-- Planeación desarrollo de actividades modulo I Maestría <br />  
-- Cronograma de actividades proyecto Gimnasio BLC <br />
-- Lectura y socializacion de requerimientos <br />
-- Creación del grupo en code.google.com <br />
-- Asignación de tareas proximo encuentro <br />
+- Se realizó una socialización de cada una de las lecturas programadas en el Modulo I de la Maestria.  Cada una de las integrantes del grupo expuso los temas, generando como documento final un resumen de cada una de las lecturas realizadas.
+- Socialización de las lecturas para tener claro los conceptos necesarios para dar inicio al desarrollo del proyecto.
+- Creación de Grupo Maestria BLC con el fin de tener toda la inforamción del grupo centralizada (Documentos, Resumenes, etc.)
 
 =Logros  a la fecha=
-- Socializacion de lectura <br />
+- Socialización total de las lecturas <br />
 - Planeación inicial proyecto Gimnasio BLC <br />
 - Creacion del grupo <br />
 
