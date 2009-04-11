@@ -1,23 +1,34 @@
-Fecha Abril 11 de 2009 
+=Fecha=
+Abril 11 de 2009
 
-Participantes 
+=Participantes=
+Beatriz Ayala <br />
+Lina Maria Ocampo <br />
+Claudia Marcela Ramírez <br />
 
-Beatriz Ayala 
-Lina Maria Ocampo 
-Claudia Marcela Ramírez 
 
-Duración 4 horas 
+=Duración=
+4 horas
+
+=||SÁBADO 9 p.m - 1 p.m||=
+
+|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
+|| Revisión diagarama de actividades 
+|| Elaboración casos de uso 
+|| Elaboración informe del proyecto 
+|| Asignación de tareas nueva reunion  
+
+=Objetivos para la próxima reunión=
+- Identificar Actores
+- Idenfiticar Casos de Uso <br />
+- Identificar Núcleo del Negocio, CRUD, Reportes, Lista de Chequeo por cada caso de uso.
+- Encuentro Viernes 10 de Abril a las 8:00 am para continuar con el desarrollo del proyecto <br />
+
 
 
 Resumen del seguimiento de las actividades 
 
-- Revisión diagarama de actividades 
-
-- Elaboración casos de uso 
-
-- Elaboración informe del proyecto 
-
-- Asignación de tareas nueva reunion 
+- 
 
 Logros a la fecha 
 
