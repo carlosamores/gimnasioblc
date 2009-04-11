@@ -12,7 +12,6 @@ Claudia Marcela Ramírez <br />
 
 =||SÁBADO 9 p.m - 1 p.m||=
 
-|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
 - Revisión diagarama de actividades <br />
 
 - Elaboración casos de uso <br />
@@ -22,16 +21,15 @@ Claudia Marcela Ramírez <br />
 - Asignación de tareas nueva reunion  <br />
 
 
-=Objetivos para la próxima reunión=
-- Finalización del trabajo <br />
-
-- Revisión documentos <br />
-
-
-Logros a la fecha 
+=||Logros a la fecha ||=
 
 - Diagrama de actividades <br />
 
 - Diagramas de casos de uso <br />
 
 - Parte del documento proyecto <br />
+
+=Objetivos para la próxima reunión=
+- Finalización del trabajo <br />
+
+- Revisión documentos <br />
