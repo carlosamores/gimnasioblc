@@ -12,7 +12,7 @@ Claudia Marcela Ramírez <br />
 
 =||SÁBADO 9 p.m - 1 p.m||=
 
-- Revisión diagarama de actividades <br />
+- Revisión diagrama de actividades <br />
 
 - Elaboración casos de uso <br />
 
