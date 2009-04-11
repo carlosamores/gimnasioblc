@@ -1,1 +1,29 @@
-Se reviso el diagrama de actividades y se implementaron los casos de uso,  se reparten las siguientes tareas para la próxima reunión
+Fecha Abril 11 de 2009 
+
+Participantes 
+Beatriz Ayala 
+Lina Maria Ocampo 
+Claudia Marcela Ramírez 
+
+Duración 4 horas 
+
+
+Resumen del seguimiento de las actividades 
+
+- Revisión diagarama de actividades 
+
+- Elaboración casos de uso 
+
+- Elaboración informe del proyecto 
+
+- Asignación de tareas nueva reunion 
+
+Logros a la fecha 
+
+- Diagrama de actividades 
+- Diagramas de casos de uso 
+- Parte del documento proyecto 
+
+Objetivos para la próxima reunión 
+- Finalización del trabajo 
+- Revisión documentos 
