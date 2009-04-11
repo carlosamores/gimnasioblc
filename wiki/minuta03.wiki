@@ -1,0 +1,1 @@
+Se reviso el diagrama de actividades y se implementaron los casos de uso,  se reparten las siguientes tareas para la próxima reunión
