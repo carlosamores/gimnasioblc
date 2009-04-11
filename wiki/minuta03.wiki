@@ -18,7 +18,7 @@ Claudia Marcela Ramírez <br />
 
 - Elaboración informe del proyecto <br />
 
-- Asignación de tareas nueva reunion  <br />
+- Asignación de tareas nueva reunión  <br />
 
 
 =||Logros a la fecha ||=
@@ -27,9 +27,9 @@ Claudia Marcela Ramírez <br />
 
 - Diagramas de casos de uso <br />
 
-- Parte del documento proyecto <br />
+- Parte del documento del proyecto <br />
 
 =Objetivos para la próxima reunión=
 - Finalización del trabajo <br />
 
-- Revisión documentos <br />
+- Revisión de éste <br />
