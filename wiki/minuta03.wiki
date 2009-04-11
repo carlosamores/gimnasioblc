@@ -13,29 +13,18 @@ Claudia Marcela Ramírez <br />
 =||SÁBADO 9 p.m - 1 p.m||=
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Revisión diagarama de actividades 
-|| Elaboración casos de uso 
-|| Elaboración informe del proyecto 
-|| Asignación de tareas nueva reunion  
+- Revisión diagarama de actividades 
+- Elaboración casos de uso 
+- Elaboración informe del proyecto 
+- Asignación de tareas nueva reunion  
 
 =Objetivos para la próxima reunión=
-- Identificar Actores
-- Idenfiticar Casos de Uso <br />
-- Identificar Núcleo del Negocio, CRUD, Reportes, Lista de Chequeo por cada caso de uso.
-- Encuentro Viernes 10 de Abril a las 8:00 am para continuar con el desarrollo del proyecto <br />
+- Finalización del trabajo 
+- Revisión documentos <br />
 
-
-
-Resumen del seguimiento de las actividades 
-
-- 
 
 Logros a la fecha 
 
 - Diagrama de actividades 
 - Diagramas de casos de uso 
 - Parte del documento proyecto 
-
-Objetivos para la próxima reunión 
-- Finalización del trabajo 
-- Revisión documentos 
