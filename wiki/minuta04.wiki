@@ -12,8 +12,8 @@ Claudia Marcela Ramírez <br />
 
 =|| TARDE LUNES 5:30 p.m - 7:00 p.m ||=
 
-|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Se reviso el diagrama de actividades y se generaron las correciones de éste
+|| *Resumen del seguimiento de las actividades* || 
+Se reviso el diagrama de actividades y se generaron las correciones de éste
    Asi mismo se suprimieron algunos casos de uso en el diagrama de casos de uso general || 
 
 
