@@ -17,7 +17,7 @@ Claudia Marcela Ramírez <br />rez <br />
 
 =Logros  a la fecha=
 1. Planeación inicial proyecto Gimnasio BLC <br />
-2. Creación del grupo y el proyecto  BodyFactory <br />
+2. Creación del grupo y el proyecto <br />
 
 =Objetivos para la próxima reunión – Plan de Actividades=
 1. Socialización Lecturas  Libro UML Toolkit y Fotocopias ( 4 Paquetes) con el fin de tener claro los conceptos para dar inicio al desarrollo del proyecto <br />
