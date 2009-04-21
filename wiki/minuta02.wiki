@@ -1,4 +1,4 @@
-#labels DiagramaActividades
+#labels Requerimientos,GrupoMaestriaBLC
 =Fecha=
 Abril 4 de 2009
 
