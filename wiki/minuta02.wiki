@@ -11,6 +11,9 @@ Claudia Marcela Ramírez <br />
 7 horas
 
 
+
+Con base al plan de actividades listado en la Minuta 01 se hizo un seguimiento a cada uno de los objetivos propuestos, dando como resultado en desarrollo de las siguientes actividades:
+
 =|| MAÑANA SÁBADO 9 a.m - 12 a.m ||=
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
@@ -21,7 +24,7 @@ Claudia Marcela Ramírez <br />
 =||TARDE SÁBADO 2 p.m - 6 p.m||=
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Lectura del proyecto del curso (Gimnasio) con el fin de entender cuál es el objetivo principal del proyecto || Generación de ideas principales del proyecto con el fin de iniciar el desarrollo de la primera entrega||
+|| Lectura del proyecto del curso (Gimnasio) con el fin de entender cuál es el objetivo principal del proyecto || Lectura del Proyecto - Generación de ideas principales del proyecto con el fin de iniciar el desarrollo de la primera entrega||
 || Inicio al desarrollo de la Primera Entrega  || Definición Nombre del Grupo de trabajo <br /> Definición Nombre de la Aplicación <br /> Definición siglas y abreviaturas <br /> Planeación para dar inicio al desarrollo del Diagrama de Actividades y Diagrama y especificación de Casos de Uso ||
 || Desarrollo de Diagrama de Actividades || Identificación de Participantes <br /> Identifiación del flujo de Actividades realizadas <br /> Uso de la herramienta StarUML para el modelado del diagrama <br /> Identificación de elementos para le modelado del diagrama de Actividades <br /> Modelo definitivo del Diagrama de Actividades ||
 || Asignación de tareas proximo encuentro || Borrador de casoss de uso por cada una de las integrantes del grupo de la Maestria ||
