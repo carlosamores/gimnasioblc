@@ -1,4 +1,4 @@
-#labels SocializacionLecturas,Cronogramaactividades,Featured,Requerimientos
+#labels SocializacionLecturas,Cronogramaactividades,Featured
 =Fecha=
 Abril 1 de 2009
 
