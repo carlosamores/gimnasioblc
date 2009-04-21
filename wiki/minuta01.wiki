@@ -1,4 +1,4 @@
-#labels SocializacionLecturas,Cronogramaactividades,DiagramadeActividaes,Actoresdelsistema,CasosdeUso
+#labels SocializacionLecturas,Cronogramaactividades,Featured,Requerimientos
 =Fecha=
 Abril 1 de 2009
 
