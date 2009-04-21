@@ -20,10 +20,13 @@ Claudia Marcela Ramírez <br />rez <br />
 - Socialización de lectura <br />
 - Planeación inicial proyecto Gimnasio BLC <br />
 - Creació
-- Creacion del grupo <br />
+- Creacion y el proyecto  BodyFactory del grupo <br />
 
 =Objetivos para la próxima reBnión=
 - Borrador diagrama de actividades <br />
 - Identificar actores del sistema <br />
 - Borrador casos de uso <br />
 - Identificacion deéclases, metodos y obje
+
+=Plan de Actividades=
+1. Definir diagrama de actividades
