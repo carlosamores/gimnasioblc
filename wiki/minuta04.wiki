@@ -1,4 +1,4 @@
-#labels S
+#labels CasosdeUso
 =Fecha=
 Abril 11 de 2009
 
@@ -15,42 +15,18 @@ Claudia Marcela Ramírez <br />
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
 || Revisión de los casos de uso. || Modelo definitivo casos de uso. || 
-|| Elaboración del proyecto en un docuemnto de Word. || Plantilla del documento. || 
+|| Elaboración del proyecto en un docuemnto de Word. || Documento no definitivo. || 
 || Asignación de tareas próxima reunión. || Borrador especificación casos de uso. ||
 
 
 =||Logros a la fecha ||=
 
-- Diagrama de actividades <br />
+1. Diagrama de actividades <br />
 
-- Diagramas de casos de uso <br />
+2. Diagramas de casos de uso <br />
 
-- Parte del documento del proyecto <br />
-
-=Objetivos para la próxima reunión=
-- Finalización del trabajo <br />
-
-- Revisión de éste <br />
-
-
-=Fecha=
-Abril 13 de 2009
-
-=Participantes=
-Beatriz Ayala <br />
-Claudia Marcela Ramírez <br />
-
-
-=Duración=
-1 hora y 30 minutos
-
-
-=|| TARDE LUNES 5:30 p.m - 7:00 p.m ||=
-
-|| *Resumen del seguimiento de las actividades* || 
-Se reviso el diagrama de actividades y se generaron las correciones de éste
-   Asi mismo se suprimieron algunos casos de uso en el diagrama de casos de uso general || 
-
+3. Parte del documento del proyecto <br />
 
 =Objetivos para la próxima reunión=
-- Implementar los casos de uso en el formato establecido para este en el proyecto- <br />
+
+1. Borrador especificación casos de uso <br />
