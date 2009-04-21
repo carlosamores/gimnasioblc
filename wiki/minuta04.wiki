@@ -1,4 +1,41 @@
 =Fecha=
+Abril 11 de 2009
+
+=Participantes=
+Beatriz Ayala <br />
+Lina Maria Ocampo <br />
+Claudia Marcela Ramírez <br />
+
+
+=Duración=
+4 horas
+
+=||SÁBADO 9 p.m - 1 p.m||=
+
+- Revisión diagrama de actividades <br />
+
+- Elaboración casos de uso <br />
+
+- Elaboración informe del proyecto <br />
+
+- Asignación de tareas nueva reunión  <br />
+
+
+=||Logros a la fecha ||=
+
+- Diagrama de actividades <br />
+
+- Diagramas de casos de uso <br />
+
+- Parte del documento del proyecto <br />
+
+=Objetivos para la próxima reunión=
+- Finalización del trabajo <br />
+
+- Revisión de éste <br />
+
+
+=Fecha=
 Abril 13 de 2009
 
 =Participantes=
