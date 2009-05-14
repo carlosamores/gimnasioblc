@@ -1,4 +1,4 @@
-#labels minuta6,minuta6,minuta6
+#labels documentosegundaentrega
 =Fecha=
 Mayo 12 de 2009
 
