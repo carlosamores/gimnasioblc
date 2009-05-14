@@ -20,7 +20,8 @@ Para ello se realizaron las siguientes actividades:
 
 || Lectura del caso de uso Adaptar rutina || 
 || Seguimiento al diagrama de secuencia Adaptar Rutina|| 
-|| Correcciones sobre el diagrama de secuencia e inclusión de comentarios sobre éste || || Corrección de métodos en los diagramas de clases ||
+|| Correcciones sobre el diagrama de secuencia e inclusión de comentarios sobre éste||
+|| Corrección de métodos en los diagramas de clases ||
 || Lectura caso de uso Gestionar Deportista ||
 || Verificación de éste ||
 || Corrección documento segunda entrega ||
