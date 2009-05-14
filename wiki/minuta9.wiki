@@ -1,0 +1,20 @@
+#labels finalentrega2proy
+=Fecha=
+Mayo 13 de 2009
+
+=Participantes=
+Lina Maria Ocampo <br />
+Beatriz Ayala <br />
+Claudia Marcela Ramírez <br />
+
+
+=Duración=
+5 horas
+
+
+=|| MIERCOLES 13 DE MAYO DE 2.009 7 P.m - 12 p.m ||=
+
+|| Se realizan los cambios finales al documento segunda entrega|| 
+|| Se crean los diagramas de relaciones finales para ambos casos de uso|| 
+|| Se crea el código java requerido para el proyecto||
+|| Se generan las imagenes de éste y se sube la información correspondiente||
