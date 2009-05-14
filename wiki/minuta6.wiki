@@ -1,4 +1,4 @@
-#labels segundaentregaproyecto
+#labels segundaentregaproyectotareas
 =Fecha=
 Abril 28 de 2009
 
@@ -9,10 +9,10 @@ Claudia Marcela Ramírez <br />
 
 
 =Duración=
-4 horas
+2 horas
 
 
-=|| MARTES 12 DE 2.009 7 P.m - 11 p.m ||=
+=|| MARTES 28 DE ABRIL DE 2.009 7 P.m - 9 p.m ||=
 
 ||Se revisa el documento entrega inicial para previas correciones.||
 ||Se da lectura y se realiza el análisis de cada uno de los puntos evaluados por el docente Oscar Franco||
