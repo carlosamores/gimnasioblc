@@ -19,5 +19,5 @@ Claudia Marcela Ramírez <br />
 ||Se realizan algunas correciones al diagrama de casos de uso y al texto de los mismo ||
 ||Se seleccionan 2 casos de uso para implementar la segunda parte del proyecto||
 ||Se definen los casos Adaptar Rutina y Gestionar Deportista.||
-||Se identifican tareas para la siguiente reunión como son:
-  Definir el modelo de objeto de análisis y traer elaborado el borrador para los   diagramas de relaciones entre clases
+||Se identifican tareas para la siguiente reunión como son:||
+||Definir el modelo de objeto de análisis y traer elaborado el borrador para los   diagramas de relaciones entre clases||
