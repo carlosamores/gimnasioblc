@@ -18,7 +18,11 @@ public class Deportista extends Usuario {
     private String genero;
     private Date fechaNacimiento;
 
-    public void Deportista() {
+    public Deportista() {
+    }
+
+    public Deportista(String identificacion, String nombre, String apellido) {
+        super(identificacion, nombre, apellido);
     }
 
     public void almacenarRutina(Rutina rut) {

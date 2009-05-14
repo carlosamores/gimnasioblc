@@ -15,10 +15,13 @@ import java.util.Vector;
 
 public class AdaptarRutina {
 
+    public AdaptarRutina() {
+    }
+
     public void almacenarRutina(Deportista selectDeportista, Rutina rut) {
     }
 
-    public Deportista buscarDeportista(Object String) {
+    public Deportista buscarDeportista(String identificador) {
         return null;
     }
 
@@ -40,7 +43,6 @@ public class AdaptarRutina {
 
     public Vector<CategoriaEjercicio> obtenerCategorias() {
         return null;
-
     }
 
     public void obtenerEjerciciosCategoria(CategoriaEjercicio selectCategoria) {

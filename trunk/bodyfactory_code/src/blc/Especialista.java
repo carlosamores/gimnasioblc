@@ -12,6 +12,10 @@ package blc;
 
 public class Especialista extends Usuario {
 
-    public void Entrenador() {
+    public Especialista(String identificacion, String nombre, String apellido) {
+        super(identificacion, nombre, apellido);
+    }
+
+    public Especialista() {
     }
 }
