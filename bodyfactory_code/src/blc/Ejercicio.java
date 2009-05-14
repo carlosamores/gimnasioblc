@@ -19,7 +19,43 @@ public class Ejercicio extends TipoEjercicio {
     private String regularidad;
     private String explicacionRealizacion;
 
-    public void Ejercicio() {
+    public Ejercicio(String nombre, String descripcion) {
+        super(nombre, descripcion);
+    }
+
+    public Ejercicio() {
+    }
+
+    public int getDuracion() {
+        return duracion;
+    }
+
+    public void setDuracion(int duracion) {
+        this.duracion = duracion;
+    }
+
+    public String getExplicacionRealizacion() {
+        return explicacionRealizacion;
+    }
+
+    public void setExplicacionRealizacion(String explicacionRealizacion) {
+        this.explicacionRealizacion = explicacionRealizacion;
+    }
+
+    public String getRegularidad() {
+        return regularidad;
+    }
+
+    public void setRegularidad(String regularidad) {
+        this.regularidad = regularidad;
+    }
+
+    public int getSeries() {
+        return series;
+    }
+
+    public void setSeries(int series) {
+        this.series = series;
     }
 
     public void modificarEjercicio(Ejercicio ejercicio) {
