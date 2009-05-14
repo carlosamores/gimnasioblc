@@ -1,6 +1,6 @@
 #labels segundaentregaproyecto
 =Fecha=
-Mayo 12 de 2009
+Abril 28 de 2009
 
 =Participantes=
 Lina Maria Ocampo <br />
@@ -12,15 +12,12 @@ Claudia Marcela Ramírez <br />
 4 horas
 
 
-
-Para cumplir con la segunda entrega del proyecto, se dío una lectura de éste y se  complemento el documento de la segunda entrega proyecto BodyFactory para ser entregado el dia mayo 13 de 2.009, en él se muestran diagramas, modelos, responsabilidades y código java. Según las tareas se tomo el caso de uso Adaptar Rutina y Gestionar Deportista.  
-Para ello se realizaron las siguientes actividades:
-
 =|| MARTES 12 DE 2.009 7 P.m - 11 p.m ||=
 
-|| Lectura del caso de uso Adaptar rutina || 
-|| Seguimiento al diagrama de secuencia Adaptar Rutina|| 
-|| Correcciones sobre el diagrama de secuencia e inclusión de comentarios sobre éste || || Corrección de métodos en los diagramas de clases ||
-|| Lectura caso de uso Gestionar Deportista ||
-|| Verificación de éste ||
-|| Corrección documento segunda entrega ||
+Se revisa el documento entrega inicial para previas correciones.  Se da lectura y se realiza el análisis de cada uno de los puntos evaluados por el docente Oscar Franco
+Se realizan algunas correciones al diagrama de casos de uso y al texto de los mismo 
+Se seleccionan 2 casos de uso para implementar la segunda parte del proyecto
+Se definen los casos Adaptar Rutina y Gestionar Deportista.
+Se identifican tareas para la siguiente reunión como son:
+Definir el modelo de objeto de análisis
+y traer elaborado el borrador para los diagramas de relaciones entre clases
