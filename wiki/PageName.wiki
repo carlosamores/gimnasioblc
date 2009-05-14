@@ -13,22 +13,14 @@ Claudia Marcela Ramírez <br />
 
 
 
-Pra cumplir con la segunda entrega del proyecto, se dío una lectura final al proyecto para construir el documento a ser entregado el dia mayo 13 de 2.009 con los diagramas, modelos, responsabilidades y código del caso de uso Adaptar Rutina y Gestionar Deportista.  Pra ello se realizaron las siguientes actividades:
+Para cumplir con la segunda entrega del proyecto, se dío una lectura de éste y se  complemento el documento de la segunda entrega proyecto BodyFactory para ser entregado el dia mayo 13 de 2.009, en él se muestran diagramas, modelos, responsabilidades y código java. Según las tareas se tomo el caso de uso Adaptar Rutina y Gestionar Deportista.  
+Para ello se realizaron las siguientes actividades:
 
 =|| MARTES 12 DE 2.009 7 P.m - 11 p.m ||=
 
-|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
 || Lectura del caso de uso Adaptar rutina || 
 || Seguimiento al diagrama de secuencia Adaptar Rutina|| 
-|| Correcciones sobre el daigrama de secuencia e inclusión de comentarios sobre éste || || Corrección de métodos en los diagramas de clases ||
+|| Correcciones sobre el diagrama de secuencia e inclusión de comentarios sobre éste || || Corrección de métodos en los diagramas de clases ||
+|| Lectura caso de uso Gestionar Deportista ||
+|| Verificación de éste ||
 || Corrección documento segunda entrega ||
-
-<br /> Casos de Uso <br /> Modelo de casos de uso <br />. || 
-
-=Objetivos para la próxima reunión=
-- Revisión de actores del sistema <br />
-- Revisión de casos de uso creados <br />
-- Identificar por cada caso de uso en cuales de estos items se clasifica: Núcleo del Negocio, CRUD, Reportes. <br />
-- Realizar Especificación de los casos de uso <br />
-- Realizar Lista de Chequeo por cada caso de uso para probar su validez. <br />
-- Encuentro Sábado 11 de Abril a las 9:00 am para continuar con el desarrollo del proyecto <br />
