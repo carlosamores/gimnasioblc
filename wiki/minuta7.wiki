@@ -1,5 +1,5 @@
 =Fecha=
-Mayo 12 de 2009
+Mayo 11 de 2009
 
 =Participantes=
 Lina Maria Ocampo <br />
@@ -12,7 +12,7 @@ Claudia Marcela Ramírez <br />
 
 
 
-Para cumplir con la segunda entrega del proyecto, se dío una lectura de éste y se  complemento el documento de la segunda entrega proyecto BodyFactory para ser entregado el dia mayo 13 de 2.009, en él se muestran diagramas, modelos, responsabilidades y código java. Según las tareas se tomo el caso de uso Adaptar Rutina y Gestionar Deportista.  
+Para cumplir con la segunda entrega del proyecto, se construye el diagrama de secuencia para el caso de uso se dío una lectura de éste y se  complemento el documento de la segunda entrega proyecto BodyFactory para ser entregado el dia mayo 13 de 2.009, en él se muestran diagramas, modelos, responsabilidades y código java. Según las tareas se tomo el caso de uso Adaptar Rutina y Gestionar Deportista.  
 Para ello se realizaron las siguientes actividades:
 
 =|| MARTES 12 DE 2.009 7 P.m - 11 p.m ||=
