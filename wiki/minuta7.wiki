@@ -15,5 +15,5 @@ Claudia Marcela Ramírez <br />
 
 || Corrección al diagrama de secuencias caso de uso Adaptar Rutina || 
 || Reunión con Asesor para resolver dudas sobre manejo de herramienta Star UML|| 
-|| Correcciones a los Diagramas de RElaciones entre clases || 
+|| Correcciones a los Diagramas de Relaciones entre clases || 
 || Asignación de responsabilidades primer borrador||
