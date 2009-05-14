@@ -1,24 +1,29 @@
 #labels minuta6,minuta6,minuta6
 =Fecha=
-Abril 10 de 2009
+Mayo 12 de 2009
 
 =Participantes=
 Lina Maria Ocampo <br />
+Beatriz Ayala <br />
 Claudia Marcela Ramírez <br />
 
 
 =Duración=
-7 horas
+4 horas
 
 
 
-Con base al plan de actividades listado en la Minuta 02 se hizo un seguimiento a cada uno de los objetivos propuestos, dando como resultado en desarrollo de las siguientes actividades:
+Pra cumplir con la segunda entrega del proyecto, se dío una lectura final al proyecto para construir el documento a ser entregado el dia mayo 13 de 2.009 con los diagramas, modelos, responsabilidades y código del caso de uso Adaptar Rutina y Gestionar Deportista.  Pra ello se realizaron las siguientes actividades:
 
-=|| VIERNES 10 a.m - 5 p.m ||=
+=|| MARTES 12 DE 2.009 7 P.m - 11 p.m ||=
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Revisión del diagrama de actividades para continuar con el desarrollo de los casos de uso. || Surgieron cambios dentro del diagrama de actividades. || 
-||Se identificaron cada uno de los actores del sistema.  El diagrama de actividades fue de gran ayuda para identificarlos y adicional a eso asociarle cada una de las acciones pertinentes de cada actor. || Actores del sistema <br /> Casos de Uso <br /> Modelo de casos de uso <br />. || 
+|| Lectura del caso de uso Adaptar rutina || 
+|| Seguimiento al diagrama de secuencia Adaptar Rutina|| 
+|| Correcciones sobre el daigrama de secuencia e inclusión de comentarios sobre éste || || Corrección de métodos en los diagramas de clases ||
+|| Corrección documento segunda entrega ||
+
+<br /> Casos de Uso <br /> Modelo de casos de uso <br />. || 
 
 =Objetivos para la próxima reunión=
 - Revisión de actores del sistema <br />
