@@ -1,4 +1,4 @@
-#labels minuta6
+#labels minuta6,minuta6,minuta6
 =Fecha=
 Abril 10 de 2009
 
