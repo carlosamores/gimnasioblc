@@ -19,9 +19,7 @@ Con base a la Minuta 06 se da inicio al desarrollo de la segunda entrega del pro
 || Se identificaron los objetos de frontera, control y entidad para los casos de uso seleccionados . || 2.	Modelo de objetos del análisis v1.0. || 
 
 
-
-=||Logros a la fecha ||=
-
+=Logros a la fecha=
 1. Modelo de objetos del análisis v1.0 <br /> 
 2. Diagrama de clases (análisis) v1.0 <br />
 
