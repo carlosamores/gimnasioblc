@@ -14,19 +14,16 @@ Con base a la Minuta 07 se da inicio al desarrollo de los objetivos planteados e
 
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Se identificaron las relaciones entre el diagrama de clases de análisis. || Relaciones del diagrama de análisis y modelado de este en la herramienta StarUML. || Se identificaron los atributos de cada unas de las clases . ||  
-|| Se identificaron los objetos de frontera, control y entidad para los casos de uso seleccionados . || 2.	Modelo de objetos del análisis v1.0. || 
+|| Se identificaron las relaciones entre el diagrama de clases de análisis. || Relaciones del diagrama de análisis y modelado de este en la herramienta StarUML. || 
+|| Se identificaron los atributos de cada unas de las clases . || Refinamiento del diagrama de clases en la herramienta StarUML (Se anexaron los atributos a cada una de las clases) ||  
+|| Se realizo un borrador de la asignación de responsabilidades para cada una de las clases . || Borrador de la asignación de responsabilidades || 
 
 
 =Logros a la fecha=
-1. Modelo de objetos del análisis v1.0 <br /> 
-2. Diagrama de clases (análisis) v1.0 <br />
-
+1. Diagrama de clases (análisis) v1.0 con relaciones y atributos <br />
+1. Borrador de Asignación de responsabilidades <br />
 
 
 =Objetivos para la próxima reunión=
-1. Refinar el diagrama de análisis <br />
-2. Identificar relaciones entre clases <br />
-3. Identificar los atributos de cada una de las clases <br />
-4. Identificar las responsabilidades de cada una de las clases <br />
-5. Realización del caso de uso Adaptar Rutina <br />
+1. Realizar un borrador del diagrama de secuencia del caso de uso Adaptar Rutina <br />
+2. Con base al diagrama de secuencia refinar la asignación de responsabilidades de cada una de las clases. <br />
