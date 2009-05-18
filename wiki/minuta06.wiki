@@ -1,0 +1,30 @@
+=Fecha=
+Abril 27 de 2009
+
+=Participantes=
+Beatriz Ayala <br />
+Lina Maria Ocampo <br />
+Claudia Marcela Ramírez <br />
+
+=Tipo Reunión=
+Virtual
+
+=Duración=
+1 hora
+
+Con el fin de realizar la segunda entrega del proyecto, se da inicio al registro de minutas para el desarrollo del mismo.
+
+
+|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
+|| Revision borrador de especificación de cada una de las integrantes del grupo para anexarlo al documento final. || Especificación definitiva de los casos de uso. || 
+|| Desarrollo documento final. || Documento no definitivo. || 
+
+
+=||Logros a la fecha ||=
+
+1. Desarrollo primera parte del proyecto <br />
+
+
+=Objetivos para la próxima reunión=
+
+1. Desarrollo Articulo <br />
