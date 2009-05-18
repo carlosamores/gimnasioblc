@@ -1,0 +1,30 @@
+=Fecha=
+Mayo 12 de 2009
+
+=Participantes=
+Beatriz Ayala <br />
+Lina Maria Ocampo <br />
+Claudia Marcela Ramírez <br />
+
+
+=Duración=
+4 horas
+
+Con base a la Minuta 08 se da inicio al desarrollo de los objetivos planteados en esta minuta:
+Para cumplir con la segunda entrega del proyecto, se dío una lectura de éste y se complemento el documento de la segunda entrega proyecto BodyFactory para ser entregado el dia mayo 13 de 2.009, en él se muestran diagramas, modelos, responsabilidades y código java. Según las tareas se tomo el caso de uso Adaptar Rutina y Gestionar Deportista. Para ello se realizaron las siguientes actividades: 
+
+
+|| *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
+|| Seguimiento al diagrama de secuencia Adaptar Rutina con el fin de complementarlo y refinarlo para su finalización. || Diagrama de secuencia definitivo 
+|| Estudio de las ayudas de la herramienta StarUML para complementar el proceso de diagramación . || Concepto entendidos para continuar con los diagramas ||  
+|| Refinamiento de las responsabilidades . || Borrador de la asignación de responsabilidades || 
+
+
+=Logros a la fecha=
+1. Primera parte diagrama de secuencia <br />
+1. Borrador de Asignación de responsabilidades <br />
+
+
+=Objetivos para la próxima reunión=
+1. Terminar el diagrama de secuencia Adaptar Rutina <br />
+2. Con base al diagrama de secuencia refinar la asignación de responsabilidades de cada una de las clases. <br />
