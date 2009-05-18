@@ -1,5 +1,5 @@
 =Fecha=
-Mayo 5 de 2009
+Mayo 9 de 2009
 
 =Participantes=
 Beatriz Ayala <br />
@@ -8,13 +8,13 @@ Claudia Marcela Ramírez <br />
 
 
 =Duración=
-3 horas
+4 horas
 
-Con base a la Minuta 07 se da inicio al desarrollo de los objetivos planteados en esta minuta:
+Con base a la Minuta 08 se da inicio al desarrollo de los objetivos planteados en esta minuta:
 
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Se identificaron las relaciones entre el diagrama de clases de análisis. || Relaciones del diagrama de análisis y modelado de este en la herramienta StarUML. || 
+|| Correccion primare parte diagrama de secuencia. || Corrección primera parte diagrama de secuencia. || 
 || Se identificaron los atributos de cada unas de las clases . || Refinamiento del diagrama de clases en la herramienta StarUML (Se anexaron los atributos a cada una de las clases) ||  
 || Se realizo un borrador de la asignación de responsabilidades para cada una de las clases . || Borrador de la asignación de responsabilidades || 
 
