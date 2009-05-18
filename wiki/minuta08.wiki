@@ -1,5 +1,5 @@
 =Fecha=
-Mayo 2 de 2009
+Mayo 5 de 2009
 
 =Participantes=
 Beatriz Ayala <br />
@@ -8,14 +8,13 @@ Claudia Marcela Ramírez <br />
 
 
 =Duración=
-2 horas y 15 minutos
+3 horas
 
-Con base a la Minuta 06 se da inicio al desarrollo de la segunda entrega del proyecto:
+Con base a la Minuta 07 se da inicio al desarrollo de los objetivos planteados en esta minuta:
 
 
 || *Resumen del seguimiento de las actividades* || *Logros a la fecha* ||
-|| Se eligieron los casos de uso para el modelo de objetos de análisis. || Los casos de uso seleccionados fueron: AdaptarRutina (modelo del negocio) y GestionarDeportista (CRUD) . || 
-|| Se revisan los casos de uso anteriores y se realizaron las correcciones necesarias. || Correcciones de los casos de uso seleccionados. || 
+|| Se identificaron las relaciones entre el diagrama de clases de análisis. || Relaciones del diagrama de análisis y modelado de este en la herramienta StarUML. || Se identificaron los atributos de cada unas de las clases . ||  
 || Se identificaron los objetos de frontera, control y entidad para los casos de uso seleccionados . || 2.	Modelo de objetos del análisis v1.0. || 
 
 
