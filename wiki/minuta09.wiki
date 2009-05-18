@@ -20,10 +20,10 @@ Con base a la Minuta 08 se da inicio al desarrollo de los objetivos planteados e
 
 
 =Logros a la fecha=
-1. Diagrama de clases (análisis) v1.0 con relaciones y atributos <br />
+1. Primera parte diagrama de secuencia <br />
 1. Borrador de Asignación de responsabilidades <br />
 
 
 =Objetivos para la próxima reunión=
-1. Realizar un borrador del diagrama de secuencia del caso de uso Adaptar Rutina <br />
+1. Terminar el diagrama de secuencia Adaptar Rutina <br />
 2. Con base al diagrama de secuencia refinar la asignación de responsabilidades de cada una de las clases. <br />
